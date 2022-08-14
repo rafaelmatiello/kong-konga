@@ -204,10 +204,13 @@ result:
 
 ## Configuração da conexão no kong
 
-Tipo: key auth
-Name: kong
-Loopback API URL: http://kong:8000/admin-api
-API KEY: dSDb35QlwUxFggyTeiiFWTedIkAwcsfQ
+|Configuração|Valor|
+| ------------------- | ------------------- |
+|Tipo| key auth|
+|Name| kong|
+|Loopback API URL| http://kong:8000/admin-api|
+|API KEY| dSDb35QlwUxFggyTeiiFWTedIkAwcsfQ|
+
 
 
 
